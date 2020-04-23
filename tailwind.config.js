@@ -1,13 +1,7 @@
 module.exports = {
   theme: {
-    extend: {
-      spacing: {
-        '72': '18rem',
-      }
-    }
+    extend: {}
   },
-  variants: {
-    backgroundColor: ['responsive', 'hover', 'focus', 'active'],
-  },
+  variants: {},
   plugins: []
 }
